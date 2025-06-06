@@ -9,12 +9,12 @@ A high-performing Intrusion Detection System (IDS) built using a **semi-supervis
 - 🔍 **Semi-Supervised Approach**: Trained only on normal data, detecting attacks without needing labeled attack samples.
 - 📈 **Optimized Threshold Selection**: Uses F1-based thresholding instead of ROC to improve both precision and recall.
 - 📊 **Visual Interpretability**: Includes reconstruction error plots, ROC curves, and classification metrics.
-- 🚀 **Exceptional Results**:
+<!-- - 🚀 **Exceptional Results**:
   - **F1-score (attack class)**: 0.90  
   - **Recall**: 0.98  
   - **ROC-AUC**: 0.986  
   - **Precision**: 0.84  
-  - **Overall Accuracy**: 95%
+  - **Overall Accuracy**: 95% -->
 
 ---
 
